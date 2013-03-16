@@ -16,3 +16,7 @@ Using the [exception_notification](https://github.com/smartinez87/exception_noti
 
         Resque::Failure::Multiple.classes = [ Resque::Failure::Redis, Resque::Failure::ExceptionNotification ]
         Resque::Failure.backend = Resque::Failure::Multiple
+
+## Dependencies
+
+* [exception_notification](https://github.com/smartinez87/exception_notification) `~> 3.0`
