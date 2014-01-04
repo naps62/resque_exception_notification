@@ -19,4 +19,4 @@ Using the [exception_notification](https://github.com/smartinez87/exception_noti
 
 ## Dependencies
 
-* [exception_notification](https://github.com/smartinez87/exception_notification) `~> 3.0`
+* [exception_notification](https://github.com/smartinez87/exception_notification) `~> 4.0`

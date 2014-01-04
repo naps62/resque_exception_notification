@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.email           = %w("projects@akshay.cc)
   s.homepage        = "https://github.com/akshayrawat/resque_exception_notification"
 
-  s.add_dependency "exception_notification", "~> 3.0"
+  s.add_dependency "exception_notification", "~> 4.0"
 end
