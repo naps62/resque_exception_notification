@@ -1,5 +1,5 @@
 begin
-  require "exception_notification"
+  require "exception_notifier"
 rescue LoadError
   raise "Can't find 'exception_notification' gem. Please add it to your Gemfile or install it."
 end
